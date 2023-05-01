@@ -6,6 +6,12 @@
             <reason>1</reason>
         </ignore>
     </file>
+    <file path="chapter-26.xhtml">
+        <ignore>
+            <code>t-042</code>
+            <reason>1</reason>
+        </ignore>
+    </file>
     <file path="colophon.xhtml">
         <ignore>
             <code>m-035</code>
