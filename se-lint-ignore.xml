@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+    <file path="chapter-9.xhtml">
+        <ignore>
+            <code>t-042</code>
+            <reason>1</reason>
+        </ignore>
+    </file>
+    <file path="colophon.xhtml">
+        <ignore>
+            <code>m-035</code>
+            <reason>1</reason>
+        </ignore>
+    </file>
+    <file path="content.opf">
+        <ignore>
+            <code>f-002</code>
+            <reason>2</reason>
+        </ignore>
+        <ignore>
+            <code>m-023</code>
+            <reason>2</reason>
+        </ignore>
+    </file>
+</se-lint-ignore>
