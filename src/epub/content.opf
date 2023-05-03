@@ -39,7 +39,7 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">The first of Andrew Lang’s fairy books, containing tales such as Puss in Boots, Cinderella and Hansel and Gretel.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The first of Andrew Lang’s fairy books, containing tales such as Puss in Boots, Cinderella and Hansel and Gretel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/503</dc:source>

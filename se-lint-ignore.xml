@@ -27,5 +27,9 @@
 			<code>m-023</code>
 			<reason>2</reason>
 		</ignore>
+		<ignore>
+			<code>m-056</code>
+			<reason>2</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
